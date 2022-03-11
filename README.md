@@ -1,18 +1,52 @@
-### Hi there 👋
+# Guilherme Tinen Ortolani
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeneralNight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/GeneralNight)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/guilherme-tinen-ortolani-320a59141/)
+[![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:gfmi0911@hotmail.com)
 
-<!--
-**GeneralNight/GeneralNight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img width="400" src="https://www.ecoder.com.br/_nuxt/img/code.8968853.png">
+</div>
 
-Here are some ideas to get you started:
+<h3>
+  Hello! Did you get your coffee? ☕
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  I’m a passionate web developer making awesome projects and making part of history from several companies since 2020.<br/> (but i develop since 2016)
+</p>
+
+<h4>
+ Nowadays 
+</h4>
+
+  * I'm working with web development
+  * My focus is delivery an awesome, planned, organized, otimized and functional code in each project i make
+  * Client experience is important as well a good backend behind 
+  * If I have the opportunity to master my skills, I will
+
+<h4> 👨🏻‍💻 About my skills, it includes: (not in order) </h4>
+
+* VueJs
+* Nuxt
+* Vuex
+* AWS (Lambda, Dynamo, Api Gateway)
+* Lumen
+* PHP
+* MySQL
+* Full domination of Bootstrap and responsive layouts (it includes CSS)
+* Sass
+* DOM manipulation by JS Vanilla
+* Jquery
+* Git basics (commit, push, merge...)
+
+<h4> 📚 About what i'm learning: </h4>
+
+* React (In progress)
+* NodeJs  (Next after i get Alura)
+* Angular (After NodeJs)
+
+
+<div align="right">
+    <img width="300" src="https://www.ecoder.com.br/_nuxt/img/Work.67fb9c1.png">
+</div>
