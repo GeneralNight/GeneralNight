@@ -35,6 +35,7 @@
 * PHP
 * MySQL
 * Full domination of Bootstrap and responsive layouts (it includes CSS)
+* Tailwind
 * Sass
 * DOM manipulation by JS Vanilla
 * Jquery
