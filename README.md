@@ -39,13 +39,8 @@
 * Sass
 * DOM manipulation by JS Vanilla
 * Jquery
+* React
 * Git basics (commit, push, merge...)
-
-<h4> 📚 About what i'm learning: </h4>
-
-* React (In progress)
-* NodeJs  (Next after i get Alura)
-* Angular (After NodeJs)
 
 
 <div align="right">
