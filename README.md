@@ -44,5 +44,5 @@
 
 
 <div align="right">
-    <img width="300" src="https://www.ecoder.com.br/_nuxt/img/code.8968853.png">
+    <img width="300" src="https://ecoder.com.br/_nuxt/img/about.1bd5d6b.svg">
 </div>
