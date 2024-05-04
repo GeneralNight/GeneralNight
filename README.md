@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:gfmi0911@hotmail.com)
 
 <div align="center">
-  <img width="400" src="https://www.ecoder.com.br/_nuxt/img/code.8968853.png">
+  <img width="400" src="https://ecoder.com.br/_nuxt/img/laptop.0d2462c.svg"> 
 </div>
 
 <h3>
